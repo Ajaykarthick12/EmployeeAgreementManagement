@@ -121,5 +121,5 @@ Add meaningful comments to functions and components.
 Push the project to a GitHub repository.
 Include screenshots/videos of:
 Dashboard
-View, Create, and Update forms.
+View, Create, and Update forms. 
 Run tests and add the test coverage report.
